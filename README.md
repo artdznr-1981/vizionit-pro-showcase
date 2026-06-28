@@ -4,6 +4,8 @@
 
 *One product photo to a complete marketing content library in under 4 minutes.*
 
+**[▶ Watch the demo on LinkedIn](https://www.linkedin.com/posts/susanmcleannangle_lightingdesign-productmarketing-interiordesign-ugcPost-7440468882349309952-WGd4)**
+
 > This repository is a project showcase. The application source code and the proprietary AI pipeline are private. The sections below describe the product, the architecture, and the engineering challenges it solves.
 
 ---
