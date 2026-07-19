@@ -41,7 +41,7 @@ A separated image and copy pipeline ensures consistent marketing descriptions re
 
 - **Precise fixture placement**: the hardest problem was getting generative image models to respect real-world spatial rules instead of defaulting to hero-product composition. This required a custom multi-step architecture built specifically for this use case.
 - **Consistent marketing copy** via a decoupled image and copy architecture.
-- **A 13 x 12 placement matrix** where each fixture behaves differently per room (a mini-pendant is a row of three over a kitchen island, but a flanking pair beside a bed; a bath fixture mounts above the vanity mirror).
+- **A 13 x 12 placement matrix** where each fixture category resolves to a different treatment in each room — reasoning over factors like quantity (single vs. paired vs. grouped), mounting height, focal-point alignment, and framing. All combinations are handled by proprietary rules in the backend.
 - **Robust generation at scale** with retry handling and rate-limit safeguards for reliable batch output.
 
 ## Tech Stack
