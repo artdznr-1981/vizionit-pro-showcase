@@ -8,6 +8,8 @@
 
 _This repository is a project showcase. The application source code and the proprietary AI pipeline are private. The sections below describe the product, its capabilities, and the engineering challenges it solves. (Formerly developed under the name SnapIt Pro.)_
 
+> **Frontend source:** A cleaned, public portion of the frontend is available at [vizionit-pro](https://github.com/artdznr-1981/vizionit-pro). The application backend and AI pipeline remain private.
+
 ## The Problem
 
 Lighting manufacturers spend $15K-$30K and weeks of production time per product line on catalog photography, 3D room rendering, and marketing content.
