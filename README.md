@@ -4,7 +4,10 @@
 
 *One product photo to a complete, client-ready marketing content library in under 4 minutes.*
 
-**[Watch the demo on LinkedIn](https://www.linkedin.com/posts/susanmcleannangle_lightingdesign-productmarketing-interiordesign-ugcPost-7440468882349309952-WGd4)**
+**[Watch the demo HERE]**
+
+https://github.com/user-attachments/assets/1f721a6a-0900-4005-8624-8907b2f006ca
+
 
 _This repository is a project showcase. The application source code and the proprietary AI pipeline are private. The sections below describe the product, its capabilities, and the engineering challenges it solves. (Formerly developed under the name SnapIt Pro.)_
 
